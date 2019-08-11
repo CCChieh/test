@@ -1,0 +1,8 @@
+{"Level":"PANIC","Time":"2019-08-04T10:34:30.3659735+08:00","File":"D:/Scripts/gofilex/lib/support/application.go","Line":20,"Message":"Test the log."}
+{"Level":"DEBUG","Time":"2019-08-04T10:34:34.0740998+08:00","File":"D:/Scripts/gofilex/lib/support/application.go","Line":15,"Message":"Test the log."}
+{"Level":"INFO ","Time":"2019-08-04T10:34:34.0740998+08:00","File":"D:/Scripts/gofilex/lib/support/application.go","Line":17,"Message":"Test the log."}
+{"Level":"WARN ","Time":"2019-08-04T10:34:34.0760995+08:00","File":"D:/Scripts/gofilex/lib/support/application.go","Line":18,"Message":"Test the log."}
+{"Level":"ERROR","Time":"2019-08-04T10:34:34.0771002+08:00","File":"D:/Scripts/gofilex/lib/support/application.go","Line":19,"Message":"Test the log."}
+{"Level":"PANIC","Time":"2019-08-04T10:34:34.0771002+08:00","File":"D:/Scripts/gofilex/lib/support/application.go","Line":20,"Message":"Test the log."}
+{"Level":"INFO ","Time":"2019-08-04T10:34:37.7088713+08:00","File":"D:/Scripts/gofilex/lib/support/application.go","Line":17,"Message":"Test the log."}
+{"Level":"WARN ","Time":"2019-08-04T10:34:37.7088713+08:00","File":"D:/Scripts/gofilex/lib/support/application.go","Line":18,"Message":"Test the log."}
