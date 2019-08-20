@@ -1,13 +1,10 @@
 package main
 
 import (
-	"log"
+	"encoding/json"
 	"net/http"
 )
 
 func main() {
 
-	router := NewRouter()
-
-	log.Fatal(http.ListenAndServe(":8080", router))
 }
